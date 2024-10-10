@@ -9,3 +9,5 @@ namun pada bgian responsive ada ada sdikit bbrapa perubahan layout sprti pada bg
 agar tidak memenuhi ruang pada navbar, lalu sebgai gantinya sy taruh diatas card konten quiz nya dan pada button 'next question' juga saya pindahkah yang tadinya diatas menjadi dibawah ketika memasuki device android-tablet karna demi kenyamanan pengguna ketika akan meng-klik tombol tsb
 
 logika yang saya gunakan dalam program ini cukup simple hanya mengandalkan api yang sudah diberikan dan meng-set timer sbgai batasan terhadap tiap tiap soal yang dikerjakan, dan hasil akhir akan muncul dengan memberitahukan brapa banyak jawaban yang benar
+
+ouh yaa, dan cara menjalankan aplikasinya cukup mengetikkan perintah 'npm start' pada projeknya, dengan catatan jika sudah melakukan clonning pada projek quiz ini
